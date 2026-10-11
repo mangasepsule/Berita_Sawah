@@ -1,0 +1,210 @@
+{
+  "Media nasional": [
+    {
+      "name": "ANTARA - Terkini",
+      "url": "https://www.antaranews.com/rss/terkini.xml",
+      "kind": "RSS"
+    },
+    {
+      "name": "ANTARA - Ekonomi",
+      "url": "https://www.antaranews.com/rss/ekonomi.xml",
+      "kind": "RSS"
+    },
+    {
+      "name": "ANTARA - Top News",
+      "url": "https://www.antaranews.com/rss/top-news.xml",
+      "kind": "RSS"
+    },
+    {
+      "name": "CNA Indonesia",
+      "url": "https://www.cna.id/api/v1/rss-outbound-feed?_format=xml",
+      "kind": "RSS"
+    },
+    {
+      "name": "CNN Indonesia - Nasional",
+      "url": "https://www.cnnindonesia.com/nasional/rss",
+      "kind": "Kandidat RSS"
+    },
+    {
+      "name": "CNN Indonesia - Ekonomi",
+      "url": "https://www.cnnindonesia.com/ekonomi/rss",
+      "kind": "Kandidat RSS"
+    },
+    {
+      "name": "CNBC Indonesia - News",
+      "url": "https://www.cnbcindonesia.com/news/rss",
+      "kind": "Kandidat RSS"
+    },
+    {
+      "name": "CNBC Indonesia - Market",
+      "url": "https://www.cnbcindonesia.com/market/rss/",
+      "kind": "Kandidat RSS"
+    },
+    {
+      "name": "detikFinance",
+      "url": "https://finance.detik.com/rss",
+      "kind": "Kandidat RSS"
+    },
+    {
+      "name": "Kontan - Nasional",
+      "url": "https://rss.kontan.co.id/news/nasional",
+      "kind": "Kandidat RSS"
+    },
+    {
+      "name": "Kontan - Keuangan",
+      "url": "https://rss.kontan.co.id/news/keuangan",
+      "kind": "Kandidat RSS"
+    },
+    {
+      "name": "Republika - Nasional",
+      "url": "https://www.republika.co.id/rss/nasional/",
+      "kind": "Kandidat RSS"
+    },
+    {
+      "name": "Republika - Ekonomi",
+      "url": "https://www.republika.co.id/rss/ekonomi/",
+      "kind": "Kandidat RSS"
+    },
+    {
+      "name": "Media Indonesia",
+      "url": "https://mediaindonesia.com/feed",
+      "kind": "Kandidat RSS"
+    },
+    {
+      "name": "Jawa Pos - Nasional",
+      "url": "https://www.jawapos.com/nasional/rss",
+      "kind": "Kandidat RSS"
+    },
+    {
+      "name": "Suara.com - News",
+      "url": "https://www.suara.com/rss/news",
+      "kind": "Kandidat RSS"
+    }
+  ],
+  "Jawa Tengah dan DIY": [
+    {
+      "name": "Google News - Jawa Tengah kekeringan",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+sawah+puso+OR+irigasi+kering+OR+sedimentasi+saluran%29+%22Jawa+Tengah%22&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Solo Raya",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+sawah+puso+OR+irigasi+kering+OR+saluran+irigasi+dangkal%29+%28Solo+OR+Wonogiri+OR+Sukoharjo+OR+Klaten+OR+Boyolali+OR+Sragen+OR+Karanganyar+OR+Grobogan%29&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - DIY",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+sawah+puso+OR+irigasi+kering+OR+sedimentasi+irigasi%29+%28Yogyakarta+OR+Sleman+OR+Bantul+OR+Gunungkidul+OR+Kulon+Progo%29&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Banyumas Raya",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+puso+OR+irigasi+kering%29+%28Banyumas+OR+Cilacap+OR+Purbalingga+OR+Banjarnegara+OR+Kebumen%29&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Jawa Timur": [
+    {
+      "name": "Google News - Jawa Timur",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+sawah+puso+OR+irigasi+kering+OR+sedimentasi+saluran%29+%22Jawa+Timur%22&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Mataraman",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+puso+OR+irigasi+kering%29+%28Madiun+OR+Ngawi+OR+Nganjuk+OR+Kediri+OR+Ponorogo+OR+Pacitan+OR+Tulungagung%29&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Pantura Jatim",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+puso+OR+irigasi+kering%29+%28Bojonegoro+OR+Tuban+OR+Lamongan+OR+Gresik%29&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Jawa Barat dan Banten": [
+    {
+      "name": "Google News - Jawa Barat",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+sawah+puso+OR+irigasi+kering+OR+sedimentasi+saluran%29+%22Jawa+Barat%22&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Banten",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+sawah+puso+OR+irigasi+kering%29+Banten&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Sumatera": [
+    {
+      "name": "Google News - Sumatera",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+sawah+puso+OR+irigasi+kering%29+Sumatera&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Sumatera Selatan",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+puso+OR+irigasi+kering%29+%28Palembang+OR+Ogan+Komering+Ilir+OR+Ogan+Komering+Ulu%29&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Lampung",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+puso+OR+irigasi+kering%29+Lampung&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Aceh",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+puso+OR+irigasi+kering%29+Aceh&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Sumatera Utara",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+puso+OR+irigasi+kering%29+Sumatera+Utara&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Kalimantan dan Sulawesi": [
+    {
+      "name": "Google News - Kalimantan",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+sawah+puso+OR+irigasi+kering%29+Kalimantan&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Sulawesi",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+sawah+puso+OR+irigasi+kering%29+Sulawesi&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Bali dan Nusa Tenggara": [
+    {
+      "name": "Google News - Bali",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+sawah+puso+OR+irigasi+kering%29+Bali&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Nusa Tenggara Barat",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+puso+OR+irigasi+kering%29+%22Nusa+Tenggara+Barat%22&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Nusa Tenggara Timur",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+puso+OR+irigasi+kering%29+%22Nusa+Tenggara+Timur%22&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Maluku dan Papua": [
+    {
+      "name": "Google News - Maluku",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+puso+OR+irigasi+kering%29+Maluku&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Papua",
+      "url": "https://news.google.com/rss/search?q=%28sawah+kekeringan+OR+puso+OR+irigasi+kering%29+Papua&hl=id&gl=ID&ceid=ID%3Aid",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Kanal video publik": [
+    {
+      "name": "YouTube - isi channel_id resmi",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=GANTI_DENGAN_CHANNEL_ID",
+      "kind": "Template RSS (ganti ID)"
+    }
+  ]
+}

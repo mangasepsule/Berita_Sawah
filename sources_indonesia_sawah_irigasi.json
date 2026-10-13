@@ -79,6 +79,66 @@
       "name": "Suara.com - News",
       "url": "https://www.suara.com/rss/news",
       "kind": "Kandidat RSS"
+    },
+    {
+      "name": "ANTARA Megapolitan - Terkini",
+      "url": "https://megapolitan.antaranews.com/rss/terkini.xml",
+      "kind": "RSS resmi regional (tercantum di halaman RSS penerbit)"
+    },
+    {
+      "name": "ANTARA Megapolitan - Bogor",
+      "url": "https://megapolitan.antaranews.com/rss/bogor-update.xml",
+      "kind": "RSS resmi regional (tercantum di halaman RSS penerbit)"
+    },
+    {
+      "name": "ANTARA Megapolitan - Depok",
+      "url": "https://megapolitan.antaranews.com/rss/depok-update.xml",
+      "kind": "RSS resmi regional (tercantum di halaman RSS penerbit)"
+    },
+    {
+      "name": "ANTARA Megapolitan - Sukabumi",
+      "url": "https://megapolitan.antaranews.com/rss/sukabumi-update.xml",
+      "kind": "RSS resmi regional (tercantum di halaman RSS penerbit)"
+    },
+    {
+      "name": "ANTARA Megapolitan - Bekasi",
+      "url": "https://megapolitan.antaranews.com/rss/bekasi-update.xml",
+      "kind": "RSS resmi regional (tercantum di halaman RSS penerbit)"
+    },
+    {
+      "name": "ANTARA Jawa Timur - Pemprov",
+      "url": "https://jatim.antaranews.com/rss/pemprov-jatim.xml",
+      "kind": "RSS resmi regional (tercantum di halaman RSS penerbit)"
+    },
+    {
+      "name": "ANTARA Jawa Timur - Kab Madiun",
+      "url": "https://jatim.antaranews.com/rss/kab-madiun.xml",
+      "kind": "RSS resmi regional (tercantum di halaman RSS penerbit)"
+    },
+    {
+      "name": "ANTARA Jawa Timur - Sidoarjo",
+      "url": "https://jatim.antaranews.com/rss/sidoarjo.xml",
+      "kind": "RSS resmi regional (tercantum di halaman RSS penerbit)"
+    },
+    {
+      "name": "ANTARA Jawa Timur - Surabaya",
+      "url": "https://jatim.antaranews.com/rss/surabaya.xml",
+      "kind": "RSS resmi regional (tercantum di halaman RSS penerbit)"
+    },
+    {
+      "name": "ANTARA Jawa Timur - Kab Kediri",
+      "url": "https://jatim.antaranews.com/rss/kab-kediri.xml",
+      "kind": "RSS resmi regional (tercantum di halaman RSS penerbit)"
+    },
+    {
+      "name": "ANTARA Jawa Timur - Jember",
+      "url": "https://jatim.antaranews.com/rss/jember.xml",
+      "kind": "RSS resmi regional (tercantum di halaman RSS penerbit)"
+    },
+    {
+      "name": "ANTARA Jawa Timur - Lintas Daerah",
+      "url": "https://jatim.antaranews.com/rss/lintas-daerah.xml",
+      "kind": "RSS resmi regional (tercantum di halaman RSS penerbit)"
     }
   ],
   "Jawa Tengah dan DIY": [
@@ -205,6 +265,299 @@
       "name": "YouTube - isi channel_id resmi",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=GANTI_DENGAN_CHANNEL_ID",
       "kind": "Template RSS (ganti ID)"
+    }
+  ],
+  "Media daerah - Jawa Tengah dan DIY": [
+    {
+      "name": "Google News - Semarang dan sekitarnya",
+      "url": "https://news.google.com/rss/search?q=(Semarang%20OR%20Demak%20OR%20Kendal%20OR%20Salatiga%20OR%20Ungaran)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Pantura Barat Jateng",
+      "url": "https://news.google.com/rss/search?q=(Brebes%20OR%20Tegal%20OR%20Pemalang%20OR%20Pekalongan%20OR%20Batang)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Pantura Timur Jateng",
+      "url": "https://news.google.com/rss/search?q=(Jepara%20OR%20Kudus%20OR%20Pati%20OR%20Rembang%20OR%20Blora)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Kedu dan Magelang",
+      "url": "https://news.google.com/rss/search?q=(Magelang%20OR%20Temanggung%20OR%20Wonosobo%20OR%20Purworejo%20OR%20Kebumen)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Banyumas Raya",
+      "url": "https://news.google.com/rss/search?q=(Banyumas%20OR%20Purwokerto%20OR%20Cilacap%20OR%20Purbalingga%20OR%20Banjarnegara)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Solo Raya dan sekitarnya",
+      "url": "https://news.google.com/rss/search?q=(Surakarta%20OR%20Boyolali%20OR%20Sukoharjo%20OR%20Klaten%20OR%20Wonogiri%20OR%20Sragen%20OR%20Karanganyar)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Grobogan dan Blora",
+      "url": "https://news.google.com/rss/search?q=(Grobogan%20OR%20Purwodadi%20OR%20Blora)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Yogyakarta dan Sleman",
+      "url": "https://news.google.com/rss/search?q=(Yogyakarta%20OR%20Sleman%20OR%20Bantul)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Gunungkidul dan Kulon Progo",
+      "url": "https://news.google.com/rss/search?q=(Gunungkidul%20OR%20\"Kulon%20Progo\"%20OR%20Wates)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Media daerah - Jawa Timur": [
+    {
+      "name": "Google News - Surabaya Raya",
+      "url": "https://news.google.com/rss/search?q=(Surabaya%20OR%20Sidoarjo%20OR%20Gresik%20OR%20Mojokerto)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Bojonegoro Tuban Lamongan",
+      "url": "https://news.google.com/rss/search?q=(Bojonegoro%20OR%20Tuban%20OR%20Lamongan)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Madiun Ngawi Magetan",
+      "url": "https://news.google.com/rss/search?q=(Madiun%20OR%20Ngawi%20OR%20Magetan%20OR%20Ponorogo)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Kediri Nganjuk Jombang",
+      "url": "https://news.google.com/rss/search?q=(Kediri%20OR%20Nganjuk%20OR%20Jombang%20OR%20Tulungagung)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Malang Raya",
+      "url": "https://news.google.com/rss/search?q=(Malang%20OR%20Batu%20OR%20Pasuruan)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Madura",
+      "url": "https://news.google.com/rss/search?q=(Bangkalan%20OR%20Sampang%20OR%20Pamekasan%20OR%20Sumenep)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Jember Banyuwangi Situbondo",
+      "url": "https://news.google.com/rss/search?q=(Jember%20OR%20Banyuwangi%20OR%20Situbondo%20OR%20Bondowoso)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Media daerah - Jawa Barat dan Banten": [
+    {
+      "name": "Google News - Bandung Raya",
+      "url": "https://news.google.com/rss/search?q=(Bandung%20OR%20Sumedang%20OR%20Cimahi%20OR%20\"Bandung%20Barat\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Cirebon Indramayu Majalengka",
+      "url": "https://news.google.com/rss/search?q=(Cirebon%20OR%20Indramayu%20OR%20Majalengka%20OR%20Kuningan)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Pantura Jawa Barat",
+      "url": "https://news.google.com/rss/search?q=(Subang%20OR%20Karawang%20OR%20Purwakarta%20OR%20Bekasi)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Priangan Timur",
+      "url": "https://news.google.com/rss/search?q=(Garut%20OR%20Tasikmalaya%20OR%20Ciamis%20OR%20Banjar%20OR%20Pangandaran)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Bogor Sukabumi Cianjur",
+      "url": "https://news.google.com/rss/search?q=(Bogor%20OR%20Sukabumi%20OR%20Cianjur%20OR%20Depok)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Banten Raya",
+      "url": "https://news.google.com/rss/search?q=(Serang%20OR%20Cilegon%20OR%20Pandeglang%20OR%20Lebak%20OR%20Tangerang)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Media daerah - Sumatera": [
+    {
+      "name": "Google News - Aceh per kabupaten",
+      "url": "https://news.google.com/rss/search?q=(\"Banda%20Aceh\"%20OR%20Pidie%20OR%20\"Aceh%20Utara\"%20OR%20\"Aceh%20Besar\"%20OR%20\"Aceh%20Barat\"%20OR%20\"Aceh%20Selatan\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Sumatera Utara per kabupaten",
+      "url": "https://news.google.com/rss/search?q=(Medan%20OR%20\"Deli%20Serdang\"%20OR%20Langkat%20OR%20Simalungun%20OR%20Asahan%20OR%20Tapanuli)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Sumatera Barat per kabupaten",
+      "url": "https://news.google.com/rss/search?q=(Padang%20OR%20Agam%20OR%20Pasaman%20OR%20\"Pesisir%20Selatan\"%20OR%20Solok%20OR%20\"Tanah%20Datar\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Riau dan Kepulauan Riau",
+      "url": "https://news.google.com/rss/search?q=(Pekanbaru%20OR%20Kampar%20OR%20\"Indragiri%20Hulu\"%20OR%20Dumai%20OR%20Batam%20OR%20Bintan)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Jambi dan Bangka Belitung",
+      "url": "https://news.google.com/rss/search?q=(Jambi%20OR%20\"Muaro%20Jambi\"%20OR%20Bungo%20OR%20Tebo%20OR%20Bangka%20OR%20Belitung)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Sumatera Selatan per kabupaten",
+      "url": "https://news.google.com/rss/search?q=(Palembang%20OR%20Banyuasin%20OR%20\"Ogan%20Komering%20Ilir\"%20OR%20\"Ogan%20Komering%20Ulu\"%20OR%20\"Musi%20Banyuasin\"%20OR%20Lahat)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Bengkulu",
+      "url": "https://news.google.com/rss/search?q=(Bengkulu%20OR%20\"Rejang%20Lebong\"%20OR%20Mukomuko%20OR%20\"Bengkulu%20Selatan\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Lampung per kabupaten",
+      "url": "https://news.google.com/rss/search?q=(\"Bandar%20Lampung\"%20OR%20\"Lampung%20Selatan\"%20OR%20\"Lampung%20Tengah\"%20OR%20\"Tulang%20Bawang\"%20OR%20Mesuji%20OR%20\"Way%20Kanan\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Media daerah - Kalimantan": [
+    {
+      "name": "Google News - Kalimantan Barat",
+      "url": "https://news.google.com/rss/search?q=(Pontianak%20OR%20Sambas%20OR%20Mempawah%20OR%20Sanggau%20OR%20Ketapang%20OR%20\"Kapuas%20Hulu\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Kalimantan Tengah",
+      "url": "https://news.google.com/rss/search?q=(\"Palangka%20Raya\"%20OR%20Kapuas%20OR%20\"Kotawaringin%20Timur\"%20OR%20\"Kotawaringin%20Barat\"%20OR%20Barito)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Kalimantan Selatan",
+      "url": "https://news.google.com/rss/search?q=(Banjarmasin%20OR%20Banjar%20OR%20\"Barito%20Kuala\"%20OR%20\"Hulu%20Sungai\"%20OR%20\"Tanah%20Laut\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Kalimantan Timur dan IKN",
+      "url": "https://news.google.com/rss/search?q=(Samarinda%20OR%20Balikpapan%20OR%20\"Kutai%20Kartanegara\"%20OR%20\"Kutai%20Timur\"%20OR%20Berau%20OR%20IKN)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Kalimantan Utara",
+      "url": "https://news.google.com/rss/search?q=(Tarakan%20OR%20Bulungan%20OR%20Nunukan%20OR%20Malinau%20OR%20\"Tana%20Tidung\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Media daerah - Sulawesi": [
+    {
+      "name": "Google News - Sulawesi Selatan",
+      "url": "https://news.google.com/rss/search?q=(Makassar%20OR%20Bone%20OR%20Wajo%20OR%20Soppeng%20OR%20Gowa%20OR%20Pinrang%20OR%20Luwu)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Sulawesi Tenggara",
+      "url": "https://news.google.com/rss/search?q=(Kendari%20OR%20Kolaka%20OR%20Konawe%20OR%20Bombana%20OR%20Muna%20OR%20Buton)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Sulawesi Tengah",
+      "url": "https://news.google.com/rss/search?q=(Palu%20OR%20Donggala%20OR%20Sigi%20OR%20Poso%20OR%20Banggai%20OR%20Morowali)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Sulawesi Utara",
+      "url": "https://news.google.com/rss/search?q=(Manado%20OR%20Minahasa%20OR%20\"Bolaang%20Mongondow\"%20OR%20Bitung%20OR%20Tomohon)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Gorontalo",
+      "url": "https://news.google.com/rss/search?q=(Gorontalo%20OR%20Boalemo%20OR%20\"Bone%20Bolango\"%20OR%20Pohuwato)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Sulawesi Barat",
+      "url": "https://news.google.com/rss/search?q=(Mamuju%20OR%20\"Polewali%20Mandar\"%20OR%20Majene%20OR%20Mamasa)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Media daerah - Bali dan Nusa Tenggara": [
+    {
+      "name": "Google News - Bali per kabupaten",
+      "url": "https://news.google.com/rss/search?q=(Denpasar%20OR%20Buleleng%20OR%20Tabanan%20OR%20Gianyar%20OR%20Badung%20OR%20Karangasem)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Nusa Tenggara Barat",
+      "url": "https://news.google.com/rss/search?q=(Mataram%20OR%20\"Lombok%20Barat\"%20OR%20\"Lombok%20Tengah\"%20OR%20\"Lombok%20Timur\"%20OR%20Sumbawa%20OR%20Bima)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Nusa Tenggara Timur",
+      "url": "https://news.google.com/rss/search?q=(Kupang%20OR%20\"Timor%20Tengah%20Selatan\"%20OR%20Belu%20OR%20Ende%20OR%20\"Flores%20Timur\"%20OR%20Manggarai%20OR%20Sumba)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Media daerah - Maluku dan Papua": [
+    {
+      "name": "Google News - Maluku",
+      "url": "https://news.google.com/rss/search?q=(Ambon%20OR%20\"Seram%20Bagian%20Barat\"%20OR%20\"Maluku%20Tengah\"%20OR%20Buru%20OR%20\"Kepulauan%20Aru\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Maluku Utara",
+      "url": "https://news.google.com/rss/search?q=(Ternate%20OR%20\"Halmahera%20Barat\"%20OR%20\"Halmahera%20Selatan\"%20OR%20\"Halmahera%20Tengah\"%20OR%20Tidore)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Papua",
+      "url": "https://news.google.com/rss/search?q=(Jayapura%20OR%20\"Biak%20Numfor\"%20OR%20\"Kepulauan%20Yapen\"%20OR%20Sarmi%20OR%20Keerom)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Papua Barat dan Papua Barat Daya",
+      "url": "https://news.google.com/rss/search?q=(Manokwari%20OR%20Fakfak%20OR%20Sorong%20OR%20\"Raja%20Ampat\"%20OR%20\"Teluk%20Bintuni\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - Papua Tengah, Pegunungan, Selatan",
+      "url": "https://news.google.com/rss/search?q=(Nabire%20OR%20Mimika%20OR%20\"Puncak%20Jaya\"%20OR%20Merauke%20OR%20Asmat%20OR%20\"Boven%20Digoel\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    }
+  ],
+  "Media daerah - portal dan jaringan lokal": [
+    {
+      "name": "Google News - media lokal Solopos Radar Solo Tribun Solo",
+      "url": "https://news.google.com/rss/search?q=(Solopos%20OR%20\"Radar%20Solo\"%20OR%20\"Tribun%20Solo\"%20OR%20SoloTrust)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - media lokal Suara Merdeka dan Tribun Jateng",
+      "url": "https://news.google.com/rss/search?q=(\"Suara%20Merdeka\"%20OR%20\"Tribun%20Jateng\"%20OR%20\"Radar%20Semarang\"%20OR%20\"Ayo%20Semarang\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - media lokal Banyumas dan Cilacap",
+      "url": "https://news.google.com/rss/search?q=(\"Serayu%20News\"%20OR%20\"Radar%20Banyumas\"%20OR%20Cilacap%20OR%20Banyumas)%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - media lokal Jawa Timur",
+      "url": "https://news.google.com/rss/search?q=(\"Radar%20Bojonegoro\"%20OR%20\"Radar%20Madiun\"%20OR%20Surya%20OR%20\"Jatim%20Times\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - media lokal Sumatera",
+      "url": "https://news.google.com/rss/search?q=(\"Tribun%20Medan\"%20OR%20\"Riau%20Pos\"%20OR%20Waspada%20OR%20\"Lampung%20Post\"%20OR%20\"Sumsel%20Update\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
+    },
+    {
+      "name": "Google News - media lokal Kalimantan dan Sulawesi",
+      "url": "https://news.google.com/rss/search?q=(\"Kaltim%20Post\"%20OR%20\"Banjarmasin%20Post\"%20OR%20\"Tribun%20Timur\"%20OR%20\"Kabar%20Makassar\")%20(sawah%20kekeringan%20OR%20sawah%20puso%20OR%20gagal%20panen%20OR%20irigasi%20kering%20OR%20kekurangan%20air%20irigasi%20OR%20sedimentasi%20saluran%20irigasi%20OR%20distribusi%20air)&hl=id&gl=ID&ceid=ID:id",
+      "kind": "Google News RSS"
     }
   ]
 }
